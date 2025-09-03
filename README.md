@@ -10,7 +10,7 @@ The datasets were generated using two algorithms:
 - **Amoeba algorithm** (generalized versions) → [`Amoeba_Data`](./Amoeba_Data)  
 - **Prüfer sampling algorithm** → [`Prufer_Sampled_Data`](./Prufer_Sampled_Data)  
 
-Each dataset is organized by:
+Each folder is sub-organized by:
 - **N** — number of monomers in a single polymer  
 - **μ** — branching (or endpoint) potential used in the ensemble  
 
@@ -67,5 +67,6 @@ For details on the algorithm, see:
   - Column 4: sampling time in µs (microseconds)  
 
 ---
+## Availability of Algorithms
 
-All algorithms used can be obtained under request by e-mailing to pvanderh@sissa.it.
+All algorithms used to generate the datasets can freely be obtained upon request by e-mailing: **pvanderh@sissa.it**.
