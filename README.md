@@ -67,3 +67,5 @@ For details on the algorithm, see:
   - Column 4: sampling time in µs (microseconds)  
 
 ---
+
+All algorithms used can be obtained under request by e-mailing to pvanderh@sissa.it.
